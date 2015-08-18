@@ -1,0 +1,11 @@
+pairs:
+  dr: Doc Ritezel; doc
+  lf: Lee Finch; lee
+
+email:
+  prefix: pair
+  domain: ministryofvelocity.com
+
+email_addresses:
+
+global: true
